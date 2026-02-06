@@ -1,0 +1,4 @@
+# Editable Python packages for this module
+# Paths relative to module root
+# Used by: mars-dev/scripts/mars-pip-editable-requirements.sh
+.
